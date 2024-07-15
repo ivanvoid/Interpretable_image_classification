@@ -1,7 +1,7 @@
 # Interpretable image classification 
 
 ## Description
-This programm runs Gradio server with interpretator of **Inception_v3** classification model using  [LIME](https://github.com/marcotcr/lime/tree/master) interpretator for explaining individual predictions.
+App runs Gradio server with interpretator of **Inception_v3** classification model using  [LIME](https://github.com/marcotcr/lime/tree/master) interpretator for explaining individual predictions.
 
 ![image](data/demo_img.png)
 
